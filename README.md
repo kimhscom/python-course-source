@@ -3,7 +3,7 @@
 
 - 실습환경(2018년 10월 기준)
     - OS: Windows 10
-    - IDE: Python 3.5.6
+    - IDE: Python 3.5.6
     
 - 개발환경 설정
     - [파이썬 설치하기](https://wikidocs.net/8)
